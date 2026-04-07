@@ -77,7 +77,7 @@ public class FrontendGUI extends JFrame implements ActionListener {
                 int correct = arr[index][arr[index].length - 1];
                 resultLabel.setText("Wrong! Ans: " + correct);
             }
-
+           //https://github.com/Ravi123sv-----
             scoreLabel.setText("Score: " + score);
             index++;
 
