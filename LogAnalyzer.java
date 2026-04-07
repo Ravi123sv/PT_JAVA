@@ -60,7 +60,7 @@ public class LogAnalyzer {
             else break;
         }
     }
-
+//https://github.com/Ravi123sv-----
     static void loadLogs() {
         try {
             BufferedReader br = new BufferedReader(new FileReader("log.txt"));
