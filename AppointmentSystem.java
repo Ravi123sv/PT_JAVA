@@ -44,7 +44,7 @@ public class AppointmentSystem {
         }
         save();
     }
-
+//https://github.com/Ravi123sv-----
     static void save() throws Exception {
         ObjectOutputStream o = new ObjectOutputStream(new FileOutputStream("a.dat"));
         o.writeObject(list);
