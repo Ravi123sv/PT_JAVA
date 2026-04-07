@@ -38,7 +38,7 @@ public class AttendanceSystem {
         o.writeInt(totalDays);
         o.close();
     }
-
+//https://github.com/Ravi123sv-----
     static void load() {
         try {
             ObjectInputStream o = new ObjectInputStream(new FileInputStream("att.dat"));
