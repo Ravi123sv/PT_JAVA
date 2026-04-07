@@ -37,7 +37,7 @@ public class project {
                 System.out.println("Wrong! correct answer is "+arr[in][arr[in].length-1]);
             }
             System.out.println("Your score: "+score);
-            in++;
+            in++;//https://github.com/Ravi123sv-----
             if(in == arr.length){
                 System.out.println("Completed!! Your Score: "+score);
                 break;
